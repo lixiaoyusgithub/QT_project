@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\BaiduNetdiskDownload\glog\build\CMakeFiles\glog.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\BaiduNetdiskDownload\glog\build\CMakeFiles\59f31dc90ec7a7452d07e5af919f8c5f\glog.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\BaiduNetdiskDownload\glog\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\demangle.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\logging.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\raw_logging.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\signalhandler.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\symbolize.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\utilities.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\vlog_is_on.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\BaiduNetdiskDownload\glog\build\glog_internal.dir\$(Configuration)\port.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3EE11FBF-E3B1-36B2-A76E-D391C31E5A90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{4CB5C35E-AC73-3CBE-96BB-611C7685AA45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{73F2A75D-A323-3A5C-ACCC-4CAAEEE5E12F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
